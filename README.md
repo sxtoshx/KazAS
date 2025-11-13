@@ -1,5 +1,5 @@
 ## KazAS
-
+```
 package com.example.slotmachine
 
 import android.os.Bundle
@@ -185,3 +185,4 @@ class MainActivity : AppCompatActivity() {
         tvResult.text = resultText
     }
 }
+```
